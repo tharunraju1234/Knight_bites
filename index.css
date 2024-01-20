@@ -1,0 +1,44 @@
+/* * {
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.imageGallery {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 0 auto;
+    justify-content: center;
+    /* align-items: center; */
+
+
+/*
+}
+.image {
+    padding: 8px;
+    flex-basis: 100%;
+}
+@media only screen and (max-width:600px) {
+    .image {
+        flex-basis: 100%;
+    }
+}
+@media only screen and (min-width:640px) {
+    .image {
+        flex-basis: 50%;
+    }
+}
+@media only screen and (min-width:600px) {
+    .image {
+        flex-basis: 33.33%;
+    }
+} */
+
+h1 {
+    text-shadow: 4px 2px 5px rgb(12, 244, 93);
+}
+
+p {
+    text-indent: 20px;
+}

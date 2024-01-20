@@ -1,0 +1,21 @@
+#calc{
+    display: flex;
+    justify-content: center;
+}
+
+
+#box{
+   height: 200px;
+   width: 170px;
+   border: 1px solid red;
+}
+#inputfield{
+    margin: 5px;
+}
+#buttons{
+    padding: 10px;
+    border-radius: 50%;
+}
+button{
+    
+}

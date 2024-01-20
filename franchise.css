@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.franchies1 {
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 700px;
+    background-size: cover;
+    background-image: url(./wallpaperflare.com_wallpaper\ \(2\).jpg);
+    /* position: relative; */
+}
+
+.about {}
+
+.navigation {
+    color: white;
+    font-size: 20px;
+    height: 100px;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    background: rgba(0, 0, 0, .12);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 2;
+}
+
+.brandlogo {
+    margin: 0 100px;
+    width: 150px;
+    height: 90px;
+    background: url(./Screenshot\ 2023-07-18\ 132044.png);
+    background-repeat: no-repeat;
+    background-size: 150px 90px;
+    cursor: pointer;
+}
+
+.nav {
+    margin-right: 100px;
+}
+
+.home {
+    display: inline-block;
+    padding: 0px 25px;
+
+}
+
+.franchies1 h1 {
+    font-size: 50px;
+    display: inline-block;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 100px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Lilita One', cursive;
+    color: aliceblue;
+    text-shadow: 20px;
+}
+
+.franchies1 h2 {
+    font-size: 30px;
+    display: inline-block;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 100px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Lilita One', cursive;
+    color: aliceblue;
+    text-shadow: 20px;
+}
+
+.apply {
+color: white;
+border-color: white;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgb(149, 33, 33);
+    height: 30px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    top: 350px;
+    left: 650px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mission {
+    height: 300px;
+    width: 100vw;
+
+    display: inline-block;
+    position: relative;
+    line-height: 50px;
+    top: 60px;
+    left: 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.mission h1 {
+    position: relative;
+    left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.mission p {
+    font-size: 20px;
+    width: 494px;
+    text-align: center;
+    position: relative;
+    left: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr {
+    color: purple;
+    width: 90%;
+    display: flex;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    display: flex;
+    justify-content: center;
+
+}
+
+table h1 {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table p {
+    text-align: center;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table .i1 {
+    margin: 30px 130px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table .i2 {
+    margin: 20px 130px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table .i3 {
+    margin: 20px 130px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table .i4 {
+    margin: 30px 130px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table .i5 {
+    margin: 20px 130px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table .i6 {
+    margin: 20px 130px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.last {
+    background-image: url(./poster1aboutpage.jpg);
+    height: 100vh;
+    width: 100vw;
+    display: inline-block;
+    top: 80px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.last h1 {
+    position: absolute;
+    margin: 40px;
+    left: 573px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.last p {
+    position: relative;
+    top: 87px;
+    left: 581px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.applylast{
+    height: 50px;
+width: 187px;
+background-color: rgb(220, 85, 41);
+display: flex;
+position: absolute;
+align-items: center;
+justify-content: center;
+bottom: 100px;
+left: 600px;
+border-radius: 50px;
+font-family: 'Lilita One', cursive;
+}
+
+
+
